@@ -5,7 +5,7 @@
     # You may assume that each input would have exactly one solution, and you may not use the same element twice.
     #
     # You can return the answer in any order.   hife
-    #
+    #https://github.com/Indrajit67/Indrajit67.git
 
 
 #!/usr/bin/env python
@@ -20,3 +20,5 @@ for line in show_tech:
         print (line)
 #above only prints line starting with and not containing
 # to dowload file curl -O http://www.gutenberg.org/dirs/etext97/wssnt10.txt
+
+print ("Comming the code to git")
